@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ahmedabad",
+               "short_name" : "Ahmedabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ahmedabad",
+               "short_name" : "Ahmedabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ahmedabad, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.1378156,
+                  "lng" : 72.7053737
+               },
+               "southwest" : {
+                  "lat" : 22.9028759,
+                  "lng" : 72.4541115
+               }
+            },
+            "location" : {
+               "lat" : 23.022505,
+               "lng" : 72.5713621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1863814,
+                  "lng" : 72.76960269999999
+               },
+               "southwest" : {
+                  "lat" : 22.8541054,
+                  "lng" : 72.3898825
+               }
+            }
+         },
+         "place_id" : "ChIJSdRbuoqEXjkRFmVPYRHdzk8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
