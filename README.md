@@ -1,1 +1,1 @@
-WORK STILL ONGOING!!
+Basic weather fetching app using Node.js
